@@ -1,0 +1,9 @@
+.ssh/
+.vscode-server/
+.bashrc
+.gitconfig
+.profile
+node_modules/
+nodejs-express-sequelize-mysql/node_modules/
+.npm/
+.cache/
