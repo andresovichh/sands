@@ -44,7 +44,9 @@
         <a class="badge badge-warning"
           :href="'/tutorials/' + currentTutorial.id"
         >
-          Edit
+                  <button type="button" class="btn btn-secondary">
+          <i class="bi bi-check-circle-fill text-light"></i> Edit
+        </button>
         </a>
       </div>
       <div v-else>
