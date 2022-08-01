@@ -33,6 +33,17 @@ Then, you can run the application:
     
     node server.js
 
+        METHODS are as follows:
+        - GET
+        - POST
+        - PUT
+        - DELETE
+
+        ROUTES are as follows:
+        - /tutorials/
+        - /tutorials/:id/
+        - /tutorials/mass_delete/
+
 
 For the frontend:
 
@@ -43,3 +54,12 @@ Create a new directory for your project, and cd to it.
 Then, you can run the application:
     
     npm run serve
+
+
+
+
+
+
+# Some images
+
+!My Image![](images/home.png)
