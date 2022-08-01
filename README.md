@@ -62,4 +62,4 @@ Then, you can run the application:
 
 # Some images
 
-!My Image![](images/home.png)
+(images/home.png)
