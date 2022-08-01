@@ -20,7 +20,4 @@ To install the dependencies run:
 
 Then, create a directory for your project, and cd to it.
     
-    Then, run the following command:
-    '''
     npm init
-    '''
