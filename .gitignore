@@ -7,3 +7,4 @@ node_modules/
 nodejs-express-sequelize-mysql/node_modules/
 .npm/
 .cache/
+sandkey.pem/
