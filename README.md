@@ -13,11 +13,33 @@ Technologies used:
 - mysql2 
 - body-parser 
 - cors
+- axios
 
 
 To install the dependencies run:
 - installs.sh
 
+For the bakend:
+
 Then, create a directory for your project, and cd to it.
     
     npm init
+
+Once the project is created, you can install the dependencies:
+    
+    npm install express sequelize mysql2 body-parser cors
+    
+Then, you can run the application:
+    
+    node server.js
+
+
+For the frontend:
+
+Create a new directory for your project, and cd to it.
+
+    npm install vue vue-router vue-cli
+    
+Then, you can run the application:
+    
+    npm run serve
